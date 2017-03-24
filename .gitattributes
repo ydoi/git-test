@@ -1,4 +1,4 @@
-#src/main/webapp/resources/js/* linguist-vendored
-#src/main/webapp/resources/js/app/* linguist-vendored=false
+src/main/webapp/resources/js/* linguist-vendored
+src/main/webapp/resources/js/app/* linguist-vendored=false
 
-#src/main/webapp/resources/css/* linguist-documentation
+src/main/webapp/resources/css/* linguist-documentation
