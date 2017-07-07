@@ -11,6 +11,6 @@
 <img src=https://user-images.githubusercontent.com/10039786/27944119-8fc71014-631f-11e7-8ea7-39dd6ef70f9f.png width=400px>
 <img src=https://user-images.githubusercontent.com/10039786/27944171-106b087e-6320-11e7-9016-d8e1be0bc150.png width=400px>  
 <img src=https://user-images.githubusercontent.com/10039786/27943894-c6bc5f86-631d-11e7-8920-ceae70ac7ac6.png width=400px>  
-*設定はSettings>Branches>Protected Branchesから設定したいマージ対象branchを選択し、  
+*設定はSettings>Branches>Protected Branchesからマージ対象branchを選択し、  
 *"Require pull request reviews before merging "にチェック  
 <img src=https://user-images.githubusercontent.com/10039786/27943893-c5daa690-631d-11e7-95fa-44f6a20459d3.png width=400px>  
