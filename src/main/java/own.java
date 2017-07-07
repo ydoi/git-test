@@ -5,7 +5,7 @@ class Main{
         Scanner cin = new Scanner(System.in);
         int count = 0;
         for(;cin.hasNext();) {
-            System.out.println(++count + "s–Ú:" + cin.nextLine());
+            System.out.println(++count + "è¡Œç›®:" + cin.nextLine());
         }
     }
 }
