@@ -8,5 +8,7 @@
 *プルリクエストの差分確認画面にある"Review Changed"から  
 *Comment（LGTM）,Approve(承認),RequestChange(指摘あり)を選択して総評コメントができ、   
 *Approveの総評が無いとWarningが表示されてマージ不可となる。  
-*設定はSettings>Branches>Protected Branchesから設定したいマージ対応branchを選択し、  
-*"Require pull request reviews before merging "にチェック   
+*設定はSettings>Branches>Protected Branchesから設定したいマージ対象branchを選択し、  
+*"Require pull request reviews before merging "にチェック  
+<img src="https://github.com/ydoi/git-test/tree/master/image/protected_branch.png" >  
+<img src="https://github.com/ydoi/git-test/tree/master/image/restrict_merge.png" >
